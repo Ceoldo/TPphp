@@ -1,2 +1,2 @@
 # TPphp
-Projet PHP 
+Projet PHP  De Guillaume Jacquemin et Nathan Badouaille
